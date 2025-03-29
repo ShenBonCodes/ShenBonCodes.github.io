@@ -7,6 +7,7 @@ body {
     background-image: url("../dark-wavy-background-design_23-2148406586.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     margin: 0
 }
 
