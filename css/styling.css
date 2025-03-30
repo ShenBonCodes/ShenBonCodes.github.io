@@ -877,6 +877,13 @@ a {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
 }
 
+.w3-project-card {
+    width: 300px;
+    height: 400px;
+    border-radius: 8px;
+    background-color: #5d5d5d89;
+}
+
 .w3-spin {
     animation: w3-spin 2s infinite linear
 }
